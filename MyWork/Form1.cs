@@ -19,12 +19,12 @@ namespace MyWork
 
         private void startButton_Click(object sender, EventArgs e)
         {
-            displayText.Text = "Hello Chris!";
+            displayText.Text = "Hello Mactonio!";
         }
 
         private void stopButton_Click(object sender, EventArgs e)
         {
-            displayText.Text = "Bye Chris!";
+            displayText.Text = "Bye Mactonio!";
         }
 
         private void Form1_Load(object sender, EventArgs e)
