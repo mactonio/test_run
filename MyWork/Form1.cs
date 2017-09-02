@@ -29,7 +29,7 @@ namespace MyWork
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            displayText.Text = "Ready!";
+            displayText.Text = "Are You Ready!";
         }
     }
 }
